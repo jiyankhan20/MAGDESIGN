@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -467,9 +466,11 @@
     </span>
 
     <!-- Hamburger Icon -->
+    
     <div class="hamburger" onclick="toggleSidebar()">&#9776;</div>
 
     <!-- Sidebar -->
+    
     <div class="sidebar shadow" id="sidebar">
       <div class="cancel-icon" onclick="toggleSidebar()">&#10006;</div>
       <a href="#" class="home fw-bold active">Home</a>
